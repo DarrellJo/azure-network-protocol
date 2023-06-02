@@ -82,18 +82,14 @@ DNS resolves domain names, such as www.disney.com, into their corresponding IP a
 </p>
 <br />
 
+<h3> Remote Desktop Protocol </h3>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Remote Desktop Protocol (RDP) is a network protocol developed by Microsoft that facilitates remote access and control of computers or virtual machines. With RDP, users can establish a remote connection to a host computer and interact with its desktop environment as if they were sitting in front of it.
+
+By leveraging RDP, users can perform various tasks and operations on the remote system, including accessing files, running applications, managing settings, and performing administrative tasks. RDP transmits the graphical user interface (GUI) of the remote desktop to the client device, allowing users to view and control the remote system's desktop environment in real-time.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
