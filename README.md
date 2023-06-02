@@ -41,7 +41,7 @@ To get started, follow these steps:
 
 <h3>Internet Control Message Protocol (IMCP) </h3>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GMjUsf3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 ICMP, short for Internet Control Message Protocol, is a network protocol that functions at the network layer of the Internet Protocol Suite. ICMP is widely recognized as the "ping" protocol, as it enables network connectivity testing and facilitates the measurement of round-trip times between two devices. This is accomplished through the exchange of Echo Request and Echo Reply messages.
@@ -50,7 +50,7 @@ ICMP, short for Internet Control Message Protocol, is a network protocol that fu
 
 <h3> Secure Shell (SSH) </h3>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WtU2jRJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 SSH, which stands for Secure Shell, is a network protocol specifically designed for secure remote login, command execution, and data communication between two networked devices. It establishes a secure channel over potentially insecure networks, like the internet, by encrypting all data transmitted between the client and server.
@@ -61,7 +61,7 @@ In our lab, we utilize SSH to securely access and manage our Ubuntu/Linux virtua
 
 <h3> Dynamic Host Configuration Protocol (DHCP) </h3>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yX7XXAL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 DHCP, or Dynamic Host Configuration Protocol, is a network protocol used to automatically assign IP addresses and other network configuration parameters to devices on a network. It simplifies the process of network setup and management by dynamically allocating IP addresses rather than requiring manual configuration for each device.
@@ -70,7 +70,7 @@ DHCP, or Dynamic Host Configuration Protocol, is a network protocol used to auto
 
 <h3> Domain Name Server (DNS) </h3>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sf2ANEl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 DNS, which stands for Domain Name System, is a fundamental protocol used to translate domain names into IP addresses on the internet. It serves as a distributed database that stores and retrieves information associated with domain names.
@@ -84,7 +84,7 @@ DNS resolves domain names, such as www.disney.com, into their corresponding IP a
 
 <h3> Remote Desktop Protocol </h3>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5x3WV4e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Remote Desktop Protocol (RDP) is a network protocol developed by Microsoft that facilitates remote access and control of computers or virtual machines. With RDP, users can establish a remote connection to a host computer and interact with its desktop environment as if they were sitting in front of it.
