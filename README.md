@@ -7,7 +7,7 @@ In this tutorial, we will guide you through the process of observing network tra
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
+- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://youtu.be/rh6UmkmTUHY)
 
 <h2>Environments and Technologies Used</h2>
 
